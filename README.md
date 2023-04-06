@@ -1,8 +1,7 @@
 # Script - Carrinho Arduino
 
-Script feito com C++ para funcionamento de um carrinho de arduino ligado a uma placa BlueTooth.
-Feito para uma atividade na ETEC de Guaianazes.
-! Lembrete: São dois scripts diferentes para versões diferentes do mesmo carrinho. Fique atento as portas do script.
+Script feito com C++ para funcionamento de um carrinho de arduino ligado a uma placa BlueTooth e um carrinho com funcionamento em linha.
+Feito para uma atividade na ETEC de Guaianazes da matéria de Sistemas Embarcados. São dois scripts diferentes para versões diferentes do mesmo carrinho. Fique atento as portas do script.
 
 #
 
@@ -14,6 +13,3 @@ Feito para uma atividade na ETEC de Guaianazes.
 </div>
 
 #
-
-- 📌Finalizado.
-- 🛠 Dois scripts de versões diferentes para carrinhos distintos.
